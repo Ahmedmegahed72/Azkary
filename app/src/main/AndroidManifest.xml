@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.azkary">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Azkary">
+        <activity
+            android:name=".activities.SurahDetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Quran"
+            android:exported="true" />
+        <activity
+            android:name=".zekr_activity"
+            android:exported="true" />
+        <activity
+            android:name=".list_actvity"
+            android:exported="true" />
+        <activity
+            android:name=".D30"
+            android:exported="true" />
+        <activity
+            android:name=".D29"
+            android:exported="true" />
+        <activity
+            android:name=".D28"
+            android:exported="true" />
+        <activity
+            android:name=".D27"
+            android:exported="true" />
+        <activity
+            android:name=".D26"
+            android:exported="true" />
+        <activity
+            android:name=".D25"
+            android:exported="true" />
+        <activity
+            android:name=".D24"
+            android:exported="true" />
+        <activity
+            android:name=".D23"
+            android:exported="true" />
+        <activity
+            android:name=".D22"
+            android:exported="true" />
+        <activity
+            android:name=".D21"
+            android:exported="true" />
+        <activity
+            android:name=".D20"
+            android:exported="true" />
+        <activity
+            android:name=".D19"
+            android:exported="true" />
+        <activity
+            android:name=".D18"
+            android:exported="true" />
+        <activity
+            android:name=".D17"
+            android:exported="true" />
+        <activity
+            android:name=".D16"
+            android:exported="true" />
+        <activity
+            android:name=".D15"
+            android:exported="true" />
+        <activity
+            android:name=".D14"
+            android:exported="true" />
+        <activity
+            android:name=".D13"
+            android:exported="true" />
+        <activity
+            android:name=".D12"
+            android:exported="true" />
+        <activity
+            android:name=".D11"
+            android:exported="true" />
+        <activity
+            android:name=".D10"
+            android:exported="true" />
+        <activity
+            android:name=".D9"
+            android:exported="true" />
+        <activity
+            android:name=".D8"
+            android:exported="true" />
+        <activity
+            android:name=".D7"
+            android:exported="true" />
+        <activity
+            android:name=".D6"
+            android:exported="true" />
+        <activity
+            android:name=".D5"
+            android:exported="true" />
+        <activity
+            android:name=".D4"
+            android:exported="true" />
+        <activity
+            android:name=".D3"
+            android:exported="true" />
+        <activity
+            android:name=".D2"
+            android:exported="true" />
+        <activity
+            android:name=".D1"
+            android:exported="true" />
+        <activity
+            android:name=".two_button"
+            android:exported="true" />
+        <activity
+            android:name=".elsona"
+            android:exported="true" />
+        <activity
+            android:name=".button"
+            android:exported="true" />
+        <activity
+            android:name=".hadith"
+            android:exported="true" />
+        <activity
+            android:name=".twba"
+            android:exported="true" />
+        <activity
+            android:name=".tsamoh"
+            android:exported="true" />
+        <activity
+            android:name=".sdek"
+            android:exported="true" />
+        <activity
+            android:name=".sapr"
+            android:exported="true" />
+        <activity
+            android:name=".sadka"
+            android:exported="true" />
+        <activity
+            android:name=".nazafa"
+            android:exported="true" />
+        <activity
+            android:name=".hegg"
+            android:exported="true" />
+        <activity
+            android:name=".fadl_zekr_Allah"
+            android:exported="true" />
+        <activity
+            android:name=".fadl_el_elm"
+            android:exported="true" />
+        <activity
+            android:name=".br_el_waldain"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

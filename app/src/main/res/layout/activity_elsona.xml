@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    android:scrollbars="vertical"
+    tools:context=".elsona">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="يضع المريض يده على موضع الألم ويقول: بسم الله (ثلاث مرات)
+ثم يقول (سبع مرات): “أعوذ بعزة الله وقدرته من شر ما أجد وأحاذر”.
+رواه مسلم. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:padding="25dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp"
+            android:layout_marginTop="20dp">
+
+        </TextView>
+        <TextView
+            android:text="ثم يقول : “أذهب البأس رب الناس، بيدك الشفاء، لا كاشف له إلا أنت”.
+فقد كان النبي ﷺ يرقي بهذا الدعاء. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="“بسم الله يُبريك، من داء يشفيك، ومن شر حاسد إذا حسد وشر كل ذي عين”.
+كان رسول الله ﷺ إذا اشتكى رقاه جبريل بذلك.
+رواه مسلم"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:padding="25dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="“بسم الله أرقيك من كل شيء يؤذيك ومن شر كل نفس أو عين حاسد، الله يشفيك، بسم الله أرقيك”.
+وهذه رقية رقى بها جبريل نبينا ﷺ. رواه مسلم."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="رقى رسول الله ﷺ غيره: عن عائشة رضي الله عنها أن رسول الله عليه وسلم كان يعوذ بعض أهله، يمسـح بيده اليمنى ويقول: “اللهم رب الناس أذهب البأس، واشف إنك الشافي، لا شفاء إلا شفاؤك، شفاءً لا يغادر سقما”"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="عن ابن عباس قال: كان النبي ﷺ يعوذ الحسن والحسين
+ويقول: “إن أباكما كان يعوذ بها إسماعيل وإسحاق، أعوذ بكلمات الله التامة من كل شيطان وهامة ومن كل عين لامة”."
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textSize="25sp"
+            android:background="@drawable/textborder2"
+            android:textColor="@color/green">
+
+        </TextView>
+        <TextView
+            android:text="عن أم سلمة رضي الله عنها أن النبي صلى الله عليه وسلم رأى في بيتها جارية في وجهها سفعة.
+فقال: “استرقوا لها فإن بها النظرة”"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="بسم الله الذي لا يضر مع اسمه شيءٌ في الأرض ولا في السماء وهو السميع العليم؛ ثلاث مراتٍ."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:padding="25dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="اللهم صلِ على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم، إنك حميدٌ مجيدٌ، اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم في العالمين إنك حميدٌ مجيدٌ. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="((أعوذ بوجه الله الكريم، وبكلمات الله التامات، اللاتي لا يجاوزهن بر ولا فاجر، من شر ما ينزل من السماء وشر ما يعرج فيها، وشر ما ذرأ في الأرض وشر ما يخرج منها، ومن فتن الليل والنهار، ومن طوارق الليل والنهار، إلا طارقًا يطرق بخير يا رحمن))
+
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="((بسم الله، تربة أرضنا، بريقة بعضنا، يُشفى سقيمُنا بإذن ربِّنا))
+
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:padding="25dp"
+            android:background="@drawable/textborder2"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:textSize="25sp">
+
+        </TextView>
+
+        <TextView
+            android:text="((لا بأس عليك، طهور إن شاء الله))"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+
+        <TextView
+            android:text="((بسم الله الكبير، أعوذ بالله العظيم من شر كل عرق نعَّار، ومن شر حر النار))
+
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:padding="25dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="(اللهم برِّد قلبي بالثلج والبرد والماء البارد، اللهم نقِّ قلبي من الخطايا كما نقيت الثوب الأبيض من الدنس))
+
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:padding="25dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="((اللهم اشف عبدك، وصدق رسولك صلى الله عليه وسلم))
+
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:padding="25dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+        <TextView
+            android:text="((اللهم عافني في بدني، اللهم عافني في سمعي، اللهم عافني في بصري، لا إله إلا أنت))، (ثلاث مرات)؛
+
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="25dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/green"
+            android:background="@drawable/textborder2"
+            android:textSize="25sp">
+
+        </TextView>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

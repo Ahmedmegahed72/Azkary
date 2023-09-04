@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:fillViewport="true"
+    android:backgroundTint="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#FF00695C"
+    tools:context=".zekr_activity">
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <Button
+
+            android:background="@drawable/mybutton"
+            android:id="@+id/button_sabah"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+android:textColor="@color/white"
+
+            android:padding="15dp"
+            android:text="@string/btn_sabah"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold" />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:id="@+id/button_masaa"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:backgroundTint="#FF00695C"
+            android:padding="15dp"
+            android:text="@string/btn_massa"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            app:cornerRadius="8dp" />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:id="@+id/btn_sleep"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:backgroundTint="#FF00695C"
+            android:padding="15dp"
+            android:text="@string/btn_sleep"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_prayout"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_prayout"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold" />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_musicout"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:padding="15dp"
+            android:text="@string/button_musicout"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_musicin"
+            android:layout_width="300dp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/button_musicin"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_azan"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/button_azan"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_pathin"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_pathin"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_pathout"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/button_pathout"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_wadoa"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/button_wadoa"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_wadoaout"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/button_wadoaout"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_homeout"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_homeout"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_homein"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:padding="15dp"
+            android:text="@string/button_homein"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_musicgo"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:padding="15dp"
+            android:text="@string/button_musicgo"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_cloth"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_cloth"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_quran"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_quran"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_sleepup"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_sleepup"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+        <Button
+            android:background="@drawable/mybutton"
+            android:layout_margin="10dp"
+            android:backgroundTint="#FF00695C"
+            android:id="@+id/button_breakfast"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:text="@string/button_breakfast"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textStyle="bold"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</ScrollView>

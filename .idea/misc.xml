@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/background_theme.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/circle.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/dd2.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/favbutton.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/favoptionbutton.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/favv.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/ic_bg_row.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/ic_setting.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/drawable/sheet_bg.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_al_azkar.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_br_el_waldain.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_button.xml" value="0.15" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d1.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d12.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d14.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d17.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d2.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d21.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d25.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d27.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d28.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d3.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d4.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d5.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d7.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_d8.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_elsona.xml" value="0.18983957219251338" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_fadl_zekr_allah.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_hadith.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_list_actvity.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_main4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_main5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_main6.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_main7.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_main8.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_nazafa.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_quran.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_sadka.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_sapr.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_surah_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_twba.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_two_button.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/activity_zekr.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/al_azkar.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/list_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/surah_detail_layout.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/surah_layout.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Azkary2/app/src/main/res/layout/textborder2.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

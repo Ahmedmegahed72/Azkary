@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_800"
+    android:orientation="vertical"
+    android:saveEnabled="true"
+    tools:context="com.example.azkary.MainActivity"
+    android:id="@+id/LogoActivity">
+
+    <ImageView
+        style="@style/AppTheme.NoActionBar"
+        android:layout_width="216dp"
+        android:layout_height="293dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="4dp"
+        android:src="@drawable/img_1"
+        tools:visibility="visible">
+
+    </ImageView>
+
+
+</LinearLayout>

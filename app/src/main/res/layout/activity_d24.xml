@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/mycolor"
+    tools:context=".D24">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="@string/d25"
+            style="@style/customstyle"
+            android:background="@drawable/textborder"
+            android:layout_marginTop="150dp"
+            android:gravity="center"
+            android:textColor="@color/mycolor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <TextView
+            android:text="@string/d251"
+            style="@style/customstyle"
+            android:background="@drawable/textborder"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="@color/mycolor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/m241"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/play">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/m242"
+                android:layout_marginLeft="80dp"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/pause"
+                android:layout_width="40dp"
+                android:layout_height="40dp">
+
+            </ImageView>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+</ScrollView>
